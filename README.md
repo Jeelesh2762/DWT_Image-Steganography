@@ -1,1 +1,1 @@
-# DWT_Image-Steganography
+# Image-Steganography
